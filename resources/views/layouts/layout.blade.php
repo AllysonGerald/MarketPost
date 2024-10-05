@@ -68,7 +68,7 @@
             <ul id="menu">
                 <li><a class="title-medium" href="{{ route('site.home') }} ">Página principal</a></li>
                 <li><a class="title-medium" href="{{ route('site.products') }} ">Produtos</a></li>
-                <li><a class="title-medium" href="{{ route('site.blog') }} ">Blog</a></li>
+                <li><a class="title-medium" href="{{ route('blog.home') }} ">Blog</a></li>
                 <li><a class="title-medium" href="{{ route('site.about') }} ">Sobre</a></li>
                 <li><a class="title-medium" href="{{ route('site.contact') }} ">Contato</a></li>
             </ul>

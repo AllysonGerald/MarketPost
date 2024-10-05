@@ -17,7 +17,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="{{route('site.blog')}}">Blog
+                        <a href="{{route('blog.home')}}">Blog
                             <span class="border-effect"></span>
                         </a>
                     </li>

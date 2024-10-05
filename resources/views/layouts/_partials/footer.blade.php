@@ -8,15 +8,15 @@
         <ul>
             <li class="footer__links">
                 <h4 class="title-small">Redes Sociais</h4>
-                <a href="{{route('site.blog')}}">Blog</a>
+                <a href="{{ route('blog.home') }}">Blog</a>
                 <a href="#" target="_blank">Facebook</a>
                 <a href="#" target="_blank">YouTube</a>
             </li>
             <li class="footer__links">
                 <h4 class="title-small">Empresa</h4>
-                <a href="{{route('site.products')}}">Nossos produtos</a>
-                <a href="{{route('site.about')}}">Sobre nós</a>
-                <a href="{{route('site.contact')}}">Entre em contato</a>
+                <a href="{{ route('site.products') }}">Nossos produtos</a>
+                <a href="{{ route('site.about') }}">Sobre nós</a>
+                <a href="{{ route('site.contact') }}">Entre em contato</a>
             </li>
             <li class="footer__links">
                 <h4 class="title-small">Contatos</h4>
